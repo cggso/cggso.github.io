@@ -1,4 +1,4 @@
-baseURL = "http://cggso.netlify.app"
+baseURL = "https://cggso.netlify.app"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
