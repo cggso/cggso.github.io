@@ -1,0 +1,18 @@
+---
+label: Blog-posts
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+pages:
+- content/posts/this-is-a-test-post.md
