@@ -3,9 +3,26 @@ title: Welcome to Sixth Annual Symposium of CGGSO
 description: The hallway smelt of boiled cabbage and old rag mats.
 
 ---
-Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Interdum velit euismod in pellentesque massa placerat duis ultricies lacus. Etiam non quam lacus suspendisse faucibus. Sollicitudin tempor id eu nisl nunc mi.
+***Renewing Connections: How the Past Informs the Present***
 
-Scelerisque eleifend donec pretium vulputate sapien nec. Dignissim diam quis enim lobortis scelerisque fermentum. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere. Tortor at risus viverra adipiscing at in tellus. Sagittis aliquam malesuada bibendum arcu. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus.
+The adage, “If we ignore the past, we are bound to repeat it,” defines many of the threats to human rights that are occurring all over the world. What are the implications? What can be done? What should we be doing to prevent further infringement of rights for people all over the world? 
+
+This year’s symposium features work by undergraduate and graduate students from all over the country whose work seeks to address these questions. 
+
+### Co- Presidents
+Molly Martin, [MAM1190@Pitt.edu](MAM1190@Pitt.edu)
+
+Berna Gorgulu, [BEG88@Pitt.edu](BEG88@Pitt.edu)
+### Vice President
+Alexandria Jennings, [AMJ169@Pitt.edu](BEG88@Pitt.edu)
+### Business Manager
+Kelly M. O’Donnell, [KMO70@Pitt.edu](KMO70@Pitt.edu)
+### Cultural Studies Advisor
+Dr. Ron Zboray, [ZBORAY@Pitt.edu](ZBORAY@Pitt.edu)
+### Gender, Sexuality, & Women’s Studies Advisor
+Dr. Laura Lovett, [LLL49@Pitt.edu](LLL49@Pitt.edu)
+
+
 
 ## Conference Schedule
 
