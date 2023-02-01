@@ -9,4 +9,4 @@ Scelerisque eleifend donec pretium vulputate sapien nec. Dignissim diam quis eni
 
 ## Conference Schedule
 
-<script src="https://events.timely.fun/embed.js" data-src="https://events.timely.fun/rnguyxmo/?range=custom&start_date=2023-02-16&end_date=2023-02-17" data-max-height="25%"  id="timely_script" class="timely-script"></script>
+<script src="https://events.timely.fun/embed.js" data-src="https://events.timely.fun/3gksn9yd/?range=custom&start_date=2023-02-16&end_date=2023-02-17" data-max-height="25%"  id="timely_script" class="timely-script"></script>
