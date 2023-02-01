@@ -1,6 +1,6 @@
 ---
 title: Welcome to Sixth Annual Symposium of CGGSO
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: Cultural Studies & Gender, Sexuality, and Women’s Studies Graduate Student Organization.
 
 ---
 ***Renewing Connections: How the Past Informs the Present***
