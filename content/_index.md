@@ -5,9 +5,11 @@ description: Cultural Studies & Gender, Sexuality, and Women’s Studies Graduat
 ---
 ***Renewing Connections: How the Past Informs the Present***
 
-The adage, “If we ignore the past, we are bound to repeat it,” defines many of the threats to human rights that are occurring all over the world. What are the implications? What can be done? What should we be doing to prevent further infringement of rights for people all over the world? 
+The adage, “If we ignore the past, we are bound to repeat it,” defines many of the threats to human rights that are occurring all over the world. What are the implications? What can be done? What should we be doing to prevent further infringement of rights for people all over the world? The importance of interrogating historical, social, and political patterns that inform people's lived realities cannot be overstated.
 
-This year’s symposium features work by undergraduate and graduate students from all over the country whose work seeks to address these questions. 
+This year’s symposium features work by undergraduate and graduate students from all over the country whose work seeks to address these questions. Six panels accross two days will reflect on global subjugation -both in terms of the apparatuses that perpetuate various forms of violance, and strategies to respond to culturally embedded forms of marginalization.
+
+_We are grateful you are here. Thank You!_
 
 ### Co- Presidents
 Molly Martin, [MAM1190@Pitt.edu](MAM1190@Pitt.edu)
