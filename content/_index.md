@@ -30,6 +30,4 @@ Dr. Laura Lovett, [LLL49@Pitt.edu](LLL49@Pitt.edu)
 
 ## Conference Schedule
 
-{{< fa fab github >}}
-
 <script src="https://events.timely.fun/embed.js" data-src="https://events.timely.fun/3gksn9yd/?range=custom&start_date=2023-02-16&end_date=2023-02-17" data-max-height="0"  id="timely_script" class="timely-script"></script>
