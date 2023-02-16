@@ -1,9 +1,11 @@
 ---
-title: Welcome to Sixth Annual Symposium of CGGSO
+title: Welcome to Fifth Annual Symposium of CGGSO
 description: Cultural Studies & Gender, Sexuality, and Women’s Studies Graduate Student Organization.
 
 ---
 ***Renewing Connections: How the Past Informs the Present***
+
+{{< youtube FUnn0fu-cJ0 >}}
 
 The adage, “If we ignore the past, we are bound to repeat it,” defines many of the threats to human rights that are occurring all over the world. What are the implications? What can be done? What should we be doing to prevent further infringement of rights for people all over the world? The importance of interrogating historical, social, and political patterns that inform people's lived realities cannot be overstated.
 
@@ -27,5 +29,7 @@ Dr. Laura Lovett, [LLL49@Pitt.edu](LLL49@Pitt.edu)
 
 
 ## Conference Schedule
+
+{{< fa fab github >}}
 
 <script src="https://events.timely.fun/embed.js" data-src="https://events.timely.fun/3gksn9yd/?range=custom&start_date=2023-02-16&end_date=2023-02-17" data-max-height="0"  id="timely_script" class="timely-script"></script>
